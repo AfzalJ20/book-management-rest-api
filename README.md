@@ -73,3 +73,12 @@ node server.js
 Server runs at:
 
 http://localhost:3000
+
+
+
+Copyright Notice
+This project is publicly visible for portfolio and demonstration purposes only.
+
+Unauthorized copying, modification, redistribution, or commercial use of this code is strictly prohibited.
+
+© 2026 Javid Afzal J. All Rights Reserved.
